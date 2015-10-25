@@ -10,7 +10,7 @@
 
 * All of the 561 original variables not involving a mean and standard deviation were removed, leaving only 66 variables
 * The data was segregated into groups comprised of the subject and the activity
-* The mean each variable for each group was calculated
+* The mean for each variable for each group was calculated
 
 
 ## Dataset columns
