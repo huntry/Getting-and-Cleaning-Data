@@ -64,3 +64,6 @@ summary_data <- summary_data %>%
 
 # write the summarized dataset to disk
 write.table( summary_data,file="dataset.txt",row.names = FALSE)
+
+#return the summarized dataset
+summary_data
